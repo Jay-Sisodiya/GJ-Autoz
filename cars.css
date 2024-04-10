@@ -1,0 +1,11 @@
+.carlogo img{
+    width: 121px;
+    height: 97px;
+    border-radius: 10px;
+    margin-left: 43px;
+}
+.carlogo{
+    display: flex ;
+    position: relative;
+    margin-top: 233px;
+}
